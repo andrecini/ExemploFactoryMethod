@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\TesteFactoryMethod\bin\Debug\TesteFactoryMethod.exe.config
+C:\Users\admin\source\repos\TesteFactoryMethod\bin\Debug\TesteFactoryMethod.exe
+C:\Users\admin\source\repos\TesteFactoryMethod\bin\Debug\TesteFactoryMethod.pdb
+C:\Users\admin\source\repos\TesteFactoryMethod\obj\Debug\TesteFactoryMethod.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\TesteFactoryMethod\obj\Debug\TesteFactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\TesteFactoryMethod\obj\Debug\TesteFactoryMethod.exe
+C:\Users\admin\source\repos\TesteFactoryMethod\obj\Debug\TesteFactoryMethod.pdb
