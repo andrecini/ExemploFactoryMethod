@@ -8,7 +8,7 @@ namespace TesteFactoryMethod
 {
     /// <summary>
     /// A classe creator declara o Factory Method que deve retornar um objeto 
-    /// de uma classe Product. As subclasses de Creator, normalmente, promove
+    /// de uma classe Product. As subclasses de Creator, normalmente, promovem
     /// a implementação deste método.
     /// </summary>
     abstract class Creator

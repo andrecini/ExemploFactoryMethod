@@ -8,7 +8,7 @@ namespace TesteFactoryMethod
 {
     /// <summary>
     /// Concrete Creators substituem o Factory method em ordem para
-    /// mudar o typo de produto resultante.
+    /// mudar o tipo de produto resultante.
     /// </summary>
     class ConcreteCreator1 : Creator
     {
